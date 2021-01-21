@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhntD52208jYq_9USEVcL5d3ViZCHH45I1A&usqp=CAU" width="600" height="200" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhntD52208jYq_9USEVcL5d3ViZCHH45I1A&usqp=CAU" width="500" height="200" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos-jUpWX7rV6MjKehTBaLkmMDi8xVFTqiFg&usqp=CAU" width="500" height="200" />
 Stock prices tick up and down constantly due to fluctuations in supply and demand. If more people want to buy a stock, its market price will increase. If more people are trying to sell a stock, its price will fall. The relationship between supply and demand is highly sensitive to the news of the moment.
 
 
